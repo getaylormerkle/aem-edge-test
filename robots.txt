@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://main--aem-edge-test--getaylormerkle.hlx.live/sitemap.xml

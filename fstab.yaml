@@ -1,2 +1,3 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1EUN13W_Q6k21T2TTtQne7RcUJ2-R300w?usp=drive_link
+  /tmp: https://publish-p9102-e659435.adobeaemcloud.com
